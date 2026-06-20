@@ -4,7 +4,7 @@ description: >-
   Axios is a promise-based HTTP client for the browser and Node.js with automatic
   JSON data transformation and request/response interceptors.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
 - Clients
 - HTTP Client
