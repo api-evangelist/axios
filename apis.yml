@@ -41,7 +41,7 @@ common:
   url: https://github.com/axios/axios
 - type: GitHubRepository
   url: https://github.com/axios/axios
-- type: SDK
+- type: SDKs
   url: https://www.npmjs.com/package/axios
   title: npm Package
 - type: Features
