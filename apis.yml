@@ -45,6 +45,19 @@ apis:
   - type: GettingStarted
     url: https://axios-http.com/docs/intro
 common:
+- type: IssueTracker
+  url: https://github.com/axios/axios/issues
+- type: Releases
+  url: https://github.com/axios/axios/releases
+- type: SecurityPolicy
+  url: https://github.com/axios/axios/blob/v1.x/SECURITY.md
+- type: CodeOfConduct
+  url: https://github.com/axios/axios/blob/v1.x/CODE_OF_CONDUCT.md
+- type: ContributionGuide
+  url: https://github.com/axios/axios/blob/v1.x/CONTRIBUTING.md
+- type: License
+  name: MIT
+  url: https://github.com/axios/axios/blob/v1.x/LICENSE
 - type: DomainSecurity
   url: security/axios-domain-security.yml
 - type: Website
