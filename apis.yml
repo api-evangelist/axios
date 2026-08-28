@@ -4,6 +4,18 @@ description: >-
   Axios is a promise-based HTTP client for the browser and Node.js with automatic
   JSON data transformation and request/response interceptors.
 type: Index
+deliveryModel:
+  model: self-hosted
+  license: MIT
+  open_source: true
+  commercial: false
+  callable_host: false
+  label: Self-hosted open source · you run it yourself
+  confidence: high
+  source:
+  - license
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown
