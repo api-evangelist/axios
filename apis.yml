@@ -61,6 +61,12 @@ apis:
   - type: GettingStarted
     url: https://axios-http.com/docs/intro
 common:
+- type: Plans
+  url: plans/axios-plans-pricing.yml
+- type: RateLimits
+  url: rate-limits/axios-rate-limits.yml
+- type: FinOps
+  url: finops/axios-finops.yml
 - type: IssueTracker
   url: https://github.com/axios/axios/issues
 - type: Releases
