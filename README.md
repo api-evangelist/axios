@@ -66,38 +66,101 @@
 
 Axios is a promise-based HTTP client for the browser and Node.js with automatic JSON data transformation and request/response interceptors.
 
-## APIs
+**Areas:** Clients · HTTP Client · JavaScript · Node.js
 
-### Axios
-Promise-based HTTP client for browsers and Node.js.
-- **Documentation**: https://axios-http.com/docs/intro
+## Axios on APIs.io
 
-## Features
+Everything profiled for Axios is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/axios/](https://apis.io/providers/axios/)** — or go straight to one of the APIs or properties below.
 
-- **Promise-Based** — Clean async/await and .then() chaining patterns.
-- **Browser and Node.js Support** — Works in both environments with automatic adapter selection.
-- **Automatic JSON Transformation** — Automatically serializes and parses JSON.
-- **Request and Response Interceptors** — Add custom logic before requests and responses are handled.
-- **Request Cancellation** — Cancel in-flight requests using AbortController.
-- **XSRF Protection** — Built-in client-side XSRF protection.
-- **Timeout Support** — Configure request timeouts for automatic cancellation.
-- **Progress Tracking** — Track upload and download progress with callbacks.
+### APIs (1)
 
-## Use Cases
+- [Axios](https://apis.io/apis/axios/axios/) — Axios is a promise-based HTTP client for the browser and Node.js with automatic JSON data transformation and request/response interceptors.
 
-- **REST API Consumption** — Consume RESTful APIs from frontend and Node.js applications.
-- **File Uploads** — Upload files with progress tracking.
-- **Authentication** — Add auth tokens and headers via request interceptors.
-- **Data Fetching** — Fetch data in React, Vue, Angular, and other frameworks.
-- **API Testing** — Test API integrations in Node.js scripts and test suites.
+### Published properties
 
-## Links
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- **Website**: https://axios-http.com
-- **Documentation**: https://axios-http.com/docs/intro
-- **GitHub**: https://github.com/axios/axios
-- **npm**: https://www.npmjs.com/package/axios
+#### Security (1)
 
-## Maintainers
+Authentication, trust centre, and vulnerability disclosure.
 
-- **Kin Lane** — kin@apievangelist.com
+- [Axios Domain Security](https://apis.io/security/axios/axios-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Axios Plans Pricing](https://apis.io/plans/axios/axios-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Axios Rate Limits](https://apis.io/rate-limits/axios/axios-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Axios Finops](https://apis.io/finops/axios/axios-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://axios-http.com)
+- [Documentation](https://axios-http.com/docs/intro)
+- [GitHub](https://github.com/axios/axios)
+
+## API Evangelist rating
+
+**Kin Score 23.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 39.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 36.8 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/axios/](https://apis.io/providers/axios/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Axios: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/axios/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
